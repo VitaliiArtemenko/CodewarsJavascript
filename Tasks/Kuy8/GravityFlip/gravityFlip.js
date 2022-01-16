@@ -1,5 +1,5 @@
-function gravityFlip(a, b) {
-    return a + b;
+const flip = (d, a) => {
+    return d === 'R' ? a.sort((a, b) => a - b) : a.sort((a, b) => b - a);
 }
 
-module.exports = gravityFlip
+module.exports = flip;
