@@ -1,0 +1,5 @@
+function gravityFlip(a, b) {
+    return a + b;
+}
+
+module.exports = gravityFlip

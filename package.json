@@ -1,0 +1,15 @@
+{
+  "name": "codewarsjavascript",
+  "version": "1.0.0",
+  "description": "Codewars katas resolved with Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "Vitalii Artemenko",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
