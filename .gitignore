@@ -2,3 +2,4 @@ node_modules
 yarn.lock
 yarn-error.logs
 package-lock.json
+coverage
