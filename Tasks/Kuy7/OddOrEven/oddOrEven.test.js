@@ -8,13 +8,13 @@ describe('OddOrEven', () => {
 
     it('test_2', () => {
         expect(oddOrEvenTest(6)).toBe('Odd');
-    })
+    });
 
     it('Test_3', () => {
         expect(oddOrEvenTest(8)).toBe('Even');
-    })
+    });
 
     it('Test_4', () => {
         expect(oddOrEvenTest(0)).toBe('Even');
-    })
+    });
 });
