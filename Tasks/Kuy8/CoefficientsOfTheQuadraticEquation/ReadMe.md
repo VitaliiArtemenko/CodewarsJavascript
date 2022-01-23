@@ -1,6 +1,6 @@
 <h1><a href="https://www.codewars.com/kata/5d59576768ba810001f1f8d6/train/javascript">Coefficients of the Quadratic Equation</a></h1>
 <h2>8 Kuy</h2>
-
+<hr>
 <p>In this Kata you are expected to find the coefficients of quadratic equation of the given 
 two roots (<code>x1</code> and <code>x2</code>).</p>
 

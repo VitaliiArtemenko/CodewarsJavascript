@@ -1,6 +1,6 @@
 <h1><a href="https://www.codewars.com/kata/61123a6f2446320021db987d/train/javascript">Previous multiple of three</a></h1>
 <h2>7 Kuy</h2>
-
+<hr>
 <p>Given a positive integer <code>n: 0 < n < 1e6</code>, 
 remove the last digit until you're left with a number that is a multiple of three.</p>
 

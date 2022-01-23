@@ -1,6 +1,7 @@
 <h1><a href="https://www.codewars.com/kata/619f200fd0ff91000eaf4a08/train/javascript">OddOrEven</a></h1>
 <h2>7 Kuy</h2>
-<hr><div><p>Given a number <code>N</code>, determine if the sum of <code>N</code> 
+<hr>
+<div><p>Given a number <code>N</code>, determine if the sum of <code>N</code> 
 <b>consecutive numbers</b> is odd or even.</p></div>
 <ul>
 <li>If the sum is definitely an odd number, return <code>Odd</code></li>

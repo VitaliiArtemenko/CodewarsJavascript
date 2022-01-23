@@ -1,6 +1,6 @@
 <h1><a href="https://www.codewars.com/kata/5c374b346a5d0f77af500a5a">Closest elevator</a></h1>
 <h2>8 Kuy</h2>
-
+<hr>
 <p>Given 2 elevators (named "left" and "right") in a building with 3 floors 
 (numbered <code>0</code> to <code>2</code>), write a function <code>elevator</code> accepting 3 arguments (in order):</p>
 
