@@ -1,0 +1,2 @@
+const factorialTest = require('./factorial');
+
