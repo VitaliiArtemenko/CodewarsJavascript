@@ -1,5 +1,4 @@
-<h1><a href="https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b">
-Cat years, Dog years</a></h1>
+<h1><a href="https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b">Cat years, Dog years</a></h1>
 <h2>8 Kuy</h2>
 
 <p>I have a cat and a dog.</p>
