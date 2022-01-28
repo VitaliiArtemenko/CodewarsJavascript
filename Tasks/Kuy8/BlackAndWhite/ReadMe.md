@@ -2,7 +2,6 @@
 <h2>8 Kuy</h2>
 <hr>
 
-
 <h3>Task</h3>
 <p>Coding in function <code>blackAndWhite</code>. Function accept 1 parameter <code>arr</code>(a number array).</p>
 <h3>Outputs:</h3>
