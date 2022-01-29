@@ -11,7 +11,7 @@ describe('Can we divide it?', () => {
    });
 
    it('Test_3', () => {
-       expect(canDivideTest(456, 1, 6)).toEqual(false);
+       expect(canDivideTest(456, 1, 6)).toEqual(true);
    });
 
    it("Test_4", () => {
