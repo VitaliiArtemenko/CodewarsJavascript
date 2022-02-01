@@ -1,5 +1,5 @@
 <h1><a href="https://www.codewars.com/kata/609d17f9838b2c0036b10e89">Keyboard handler</a></h1>
-<h2>8 Kuy</h2>
+<h2>7 Kuy</h2>
 <hr>
 
 <h3>Overview</h3>

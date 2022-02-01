@@ -1,5 +1,5 @@
 <h1><a href="https://www.codewars.com/kata/60908bc1d5811f0025474291">Find the Squares</a></h1>
-<h2>8 Kuy</h2>
+<h2>7 Kuy</h2>
 <hr>
 
 <h3>Problem</h3>

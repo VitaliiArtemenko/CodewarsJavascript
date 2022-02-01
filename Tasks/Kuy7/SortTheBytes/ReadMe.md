@@ -1,5 +1,5 @@
 <h1><a href="https://www.codewars.com/kata/6076d4edc7bf5d0041b31dcf">Sort the Bytes</a></h1>
-<h2>8 Kuy</h2>
+<h2>7 Kuy</h2>
 <hr>
 
 <h3>Task</h3>
