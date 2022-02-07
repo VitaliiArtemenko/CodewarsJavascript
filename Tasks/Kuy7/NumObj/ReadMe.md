@@ -1,0 +1,8 @@
+<h1><a href="https://www.codewars.com/kata/57ced2c1c6fdc22123000316">Numbers to Objects</a></h1>
+<h2>7 Kuy</h2>
+<hr>
+<p>You will be given an array of numbers.</p>
+<p>For each number in the array you will need to create an object.</p>
+<p>The object key will be the number, as a string. The value will be the corresponding character code, as a string.</p>
+<p>Return an array of the resulting objects.</p>
+<p>All inputs will be arrays of numbers. All character codes are valid lower case letters. The input array will not be empty.</p>
