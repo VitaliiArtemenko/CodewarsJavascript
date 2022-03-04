@@ -49,6 +49,6 @@ describe('Product of Largest Pair', () => {
     console.log(time2 - time1);
 
     it('Test_11_timeChecking', () => {
-        expect(time2 - time1 < 0.5).toEqual(true);
+        expect(time2 - time1 < 1).toEqual(true);
     });
 });
