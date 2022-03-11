@@ -1,5 +1,5 @@
 <h1><a href="https://www.codewars.com/kata/54da539698b8a2ad76000228">Take a Ten Minute Walk</a></h1>
-<h2>5 Kuy</h2>
+<h2>6 Kuy</h2>
 <hr>
 <p>You live in the city of Cartesia where all roads are laid out in a perfect grid. 
 You arrived ten minutes too early to an appointment, so you decided to take the opportunity 

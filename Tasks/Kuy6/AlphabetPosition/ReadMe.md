@@ -1,5 +1,5 @@
 <h1><a href="https://www.codewars.com/kata/546f922b54af40e1e90001da">Replace With Alphabet Position</a></h1>
-<h2>5 Kuy</h2>
+<h2>6 Kuy</h2>
 <hr>
 <p>In this kata you are required to, given a string, replace every letter with its position in the alphabet.</p>
 <p>If anything in the text isn't a letter, ignore it and don't return it.</p>
