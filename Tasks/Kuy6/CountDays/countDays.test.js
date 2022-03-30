@@ -19,6 +19,6 @@ describe('Count the days!', () => {
     });
 
     it('Test_5', () => {
-        expect(countDaysTest(new Date('December 31, 2511'))).toEqual('178879 days');
+        expect(countDaysTest(new Date('December 31, 2511'))).toEqual('178878 days');
     });
 });
