@@ -1,11 +1,11 @@
 function alphabetPosition(text) {
     text = text.replace(/[^a-zA-Z]+/g, '').toLowerCase();
-    let result = '';
+    let result = [];
 
     for (let i = 0; i < text.length; i++) {
-        result += (text.charCodeAt(i) - 96) + ' ';
+        result.push(text.charCodeAt(i) - 96);
     }
-    return result.trim();
+    return result.join(' ');
 }
 
 module.exports = alphabetPosition;
