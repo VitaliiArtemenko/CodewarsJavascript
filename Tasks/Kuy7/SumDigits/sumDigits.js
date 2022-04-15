@@ -1,5 +1,5 @@
 function sumDigits(number) {
-    return Math.abs(number).toString().split('').map(Number).reduce((a, b) => a + b);
+    return Math.abs(number).toString().split('').map(Number).reduce((a, b) => a + b, 0);
 }
 
 module.exports = sumDigits;
