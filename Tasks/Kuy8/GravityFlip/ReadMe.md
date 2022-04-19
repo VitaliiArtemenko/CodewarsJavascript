@@ -25,6 +25,6 @@
 
 <p>Examples:</p>
 
-<div style="background-color: #333333">
+style="background-color: #333333">
 <pre><code><strong>flip</strong>(<span style="color: #f9cd0b">'R'</span>, [<span style="color: darkorange"> 3, 2, 1, 2</span>])     =>  [<span style="color: darkorange"> 1, 2, 2, 3</span>]
 flip(<span style="color: #f9cd0b">'L'</span>, [<span style="color: darkorange"> 1, 4, 5, 3, 5</span>])  =>  [<span style="color: darkorange"> 5, 5, 4, 3, 1</span>]</code></pre></div>
