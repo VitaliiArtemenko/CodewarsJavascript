@@ -1,4 +1,4 @@
-<h1<a href="https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e">Sum of differences in array</a></h1>
+<h1><a href="https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e">Sum of differences in array</a></h1>
 <h2>8 Kuy</h2>
 <hr>
 
