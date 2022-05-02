@@ -47,14 +47,7 @@ describe('Compare Strings by Sum of Chars', () => {
     });
 
     it('Test_12', () => {
-        expect(compareTest(null, '')).toBe(true);
-    });
-
-    it('Test_13', () => {
         expect(compareTest('', '')).toBe(true);
     });
 
-    it('Test_14', () => {
-        expect(compareTest('12345', 'aa11')).toBe(true);
-    });
 });
