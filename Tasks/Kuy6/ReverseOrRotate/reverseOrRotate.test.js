@@ -3,7 +3,7 @@ const reverseOrRotateTest = require('./reverseOrRotate');
 describe('Reverse or rotate?', () => {
 
     it('Test_1', () => {
-        expect(reverseOrRotateTest('1234 ', 0)).toEqual('');
+        expect(reverseOrRotateTest('1234', 0)).toEqual('');
     })
 
     it('Test_2', () => {
