@@ -15,15 +15,15 @@ it is impossible to take a chunk of size sz hence return "".</li>
 </ul>
 <h3>Examples:</h3>
 <pre>
-revrot("123456987654", 6) --> "234561876549"
-revrot("123456987653", 6) --> "234561356789"
-revrot("66443875", 4) --> "44668753"
-revrot("66443875", 8) --> "64438756"
-revrot("664438769", 8) --> "67834466"
-revrot("123456779", 8) --> "23456771"
-revrot("", 8) --> ""
-revrot("123456779", 0) --> "" 
-revrot("563000655734469485", 4) --> "0365065073456944"
+reverseOrRotate("123456987654", 6) --> "234561876549"
+reverseOrRotate("123456987653", 6) --> "234561356789"
+reverseOrRotate("66443875", 4) --> "44668753"
+reverseOrRotate("66443875", 8) --> "64438756"
+reverseOrRotate("664438769", 8) --> "67834466"
+reverseOrRotate("123456779", 8) --> "23456771"
+reverseOrRotate("", 8) --> ""
+reverseOrRotate("123456779", 0) --> "" 
+reverseOrRotate("563000655734469485", 4) --> "0365065073456944"
 </pre>
 <h3>Example of a string rotated to the left by one position:</h3>
 <pre>s = "123456" gives "234561"</pre>
