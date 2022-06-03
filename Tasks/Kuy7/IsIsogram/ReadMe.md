@@ -12,4 +12,3 @@ Assume the empty string is an isogram. Ignore letter case.</p>
 "aba" --> false
 "moOse" --> false (ignore letter case)
 </pre>
-
