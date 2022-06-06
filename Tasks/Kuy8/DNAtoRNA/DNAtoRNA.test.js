@@ -11,7 +11,7 @@ describe("DNA to RNA Conversion", () => {
     })
 
     it('Test_3', () => {
-        expect(DNAtoRNATest('TTTT')).toEqual('UUUU');
+        expect(DNAtoRNATest('123465TT')).toEqual('123465UU');
     })
 
     it('Test_4', () => {
