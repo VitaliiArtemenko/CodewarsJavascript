@@ -6,7 +6,7 @@ He wants to replace all the rotten pieces of fruit with fresh ones.
 For example, given <code>["apple","rottenBanana","apple"]</code> 
 the replaced array should be <code>["apple","banana","apple"]</code>.<br>
 Your task is to implement a method that accepts an array of strings 
-containing fruits should returns an array of strings where all the rotten fruits 
+containing fruits should return an array of strings where all the rotten fruits 
 are replaced by good ones.</p>
 <h3>Notes:</h3>
 <ul>
