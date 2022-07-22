@@ -10,5 +10,3 @@ function partsSums(ls) {
 }
 
 module.exports = partsSums;
-
-console.log(partsSums([20, 16, 18, 50, 11, 35, 25,  7,  8, 47, 26, 20, 16, 15, 13]))
