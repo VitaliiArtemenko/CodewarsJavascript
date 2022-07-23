@@ -8,5 +8,3 @@ function bitMarch (n) {
 }
 
 module.exports = bitMarch;
-
-console.log(bitMarch(7))
