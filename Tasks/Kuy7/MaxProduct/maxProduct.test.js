@@ -3,6 +3,7 @@ const maxProductTest = require('./maxProduct');
 describe('Product of Largest Pair', () => {
 
     let time1 = performance.now();
+
     it('Test_1', () => {
         expect(maxProductTest([56, 335, 195, 443, 6, 494, 252])).toEqual(218842);
     });
@@ -45,8 +46,8 @@ describe('Product of Largest Pair', () => {
     it('Test_10', () => {
         expect(maxProductTest([444, 845, 647, 12, 9999, 7891234])).toEqual(78_904_448_766);
     });
+
     let time2 = performance.now();
-    console.log(time2 - time1);
 
     it('Test_11_timeChecking', () => {
         expect(time2 - time1 < 2).toEqual(true);

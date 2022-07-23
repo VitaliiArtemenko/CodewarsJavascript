@@ -1,5 +1,4 @@
 function zombieShootout(zombies, range, ammo) {
-    console.log(zombies, range, ammo);
 
     if (range * 2 < zombies) {
         if (ammo < range * 2) {
