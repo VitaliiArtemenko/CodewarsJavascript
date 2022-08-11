@@ -2,7 +2,7 @@
 <h2>7 Kuy</h2>
 <hr>
 <h3>Introduction</h3>
-<p><strong>The Robber Language</strong> (Rövarspråket) is a Swedish cant used by children to mislead people 
+<p><strong>The Robber Language</strong> (Rövarspråket) is a Swedish can't be used by children to mislead people 
 not familiar with the language. It's used by kids in several screenplays created by 
 <a href="https://en.wikipedia.org/wiki/Astrid_Lindgren" data-turbolinks="false" target="_blank">Astrid Lindgren</a>.</p>
 <p>The idea is that every consonant in a sentence is <strong>duplicated</strong>, with an <code>0</code> 
