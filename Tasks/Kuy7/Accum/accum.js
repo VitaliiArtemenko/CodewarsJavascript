@@ -1,9 +1,5 @@
 function accum(s) {
-    let result = [];
-    for (let i = 0; i < s.length; i++) {
-        result.push(s[i].toUpperCase() + s[i].toLowerCase().repeat(i));
-    }
-    return result.join('-');
+    return s.split('').map((el, index) => el.toUpperCase() + el.toLowerCase().repeat(index)).join('-');
 }
 
 module.exports = accum;

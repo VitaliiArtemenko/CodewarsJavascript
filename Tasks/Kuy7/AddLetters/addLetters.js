@@ -1,12 +1,5 @@
 function addLetters(...letters) {
-    if (letters.length === 0) return 'z';
-    let sum = 0;
-    const arr = [].concat(...letters);
-
-    for (let el of arr) {
-        sum += el.charCodeAt(0) - 96;
-    }
-    return sum % 26 === 0 ? 'z' : String.fromCharCode(sum % 26 + 96);
+    return String.fromCharCode((letters.reduce((a,b) => a + b.charCodeAt(0) - 96, 0) + 25) % 26 + 97);
 }
 
 module.exports = addLetters;
